@@ -2,3 +2,6 @@ Emprestimos:
 emprestimo de 4mil
 emprestimo de 5mil
 emprestimo de 4reais
+--
+--
+simulando correção em emrpestimos
